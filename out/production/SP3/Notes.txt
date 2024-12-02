@@ -1,3 +1,0 @@
-fejl i koden:
-StreamingPlatform:
-linje 51, den stopper ikke hvis navnet allerede er taget
